@@ -6,3 +6,5 @@ GitHub pages上で動くライフゲームです
 - TypeScript
 - React
 - ReactHooks
+
+[ここから遊べます](https://jgvt5ti.github.io/lifegame)
