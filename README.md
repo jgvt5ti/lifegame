@@ -1,4 +1,4 @@
-# React Life of game
+# React Game of Life
 
 GitHub pages上で動くライフゲームです
 
