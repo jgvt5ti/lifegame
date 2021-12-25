@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/lifegame/static/css/main.073c9b0a.css",
-    "main.js": "/lifegame/static/js/main.877a7d2a.js",
-    "static/js/787.df936d3c.chunk.js": "/lifegame/static/js/787.df936d3c.chunk.js",
-    "static/media/logo.svg": "/lifegame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/lifegame/static/css/main.e5171dd0.css",
+    "main.js": "/lifegame/static/js/main.922c6f5f.js",
     "index.html": "/lifegame/index.html",
-    "main.073c9b0a.css.map": "/lifegame/static/css/main.073c9b0a.css.map",
-    "main.877a7d2a.js.map": "/lifegame/static/js/main.877a7d2a.js.map",
-    "787.df936d3c.chunk.js.map": "/lifegame/static/js/787.df936d3c.chunk.js.map"
+    "main.e5171dd0.css.map": "/lifegame/static/css/main.e5171dd0.css.map",
+    "main.922c6f5f.js.map": "/lifegame/static/js/main.922c6f5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.877a7d2a.js"
+    "static/css/main.e5171dd0.css",
+    "static/js/main.922c6f5f.js"
   ]
 }
