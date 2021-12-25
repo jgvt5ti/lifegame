@@ -38,7 +38,7 @@ const App: React.FC = _ => {
   const emptyLists: boolean[][] = Array(height).fill(Array(width).fill(false));
   const [lives, setLives] = useState(emptyLists);
   const [progress, setProgress] = useState(true);
-  document.title = "Game of Life"
+
   // calculate the next board
   const calcNewBoard = (oldBoard: boolean[][]) => {
     // decide whether the cell is alive in the next step
