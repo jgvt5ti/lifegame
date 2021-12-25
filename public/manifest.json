@@ -1,6 +1,6 @@
 {
-  "short_name": "Life of Game",
-  "name": "React Life of Game",
+  "short_name": "Game of Life",
+  "name": "React Game of Life",
   "icons": [
     {
       "src": "favicon.ico",

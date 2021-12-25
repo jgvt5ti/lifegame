@@ -35,7 +35,7 @@ const Table: React.FC<TyTable> = props => {
 }
 
 const App: React.FC = _ => {
-  document.title = "Life of Game"
+  document.title = "Game of Life"
   const emptyLists: boolean[][] = Array(height).fill(Array(width).fill(false));
   const [lives, setLives] = useState(emptyLists);
   const [progress, setProgress] = useState(true);
